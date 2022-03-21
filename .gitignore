@@ -1,0 +1,7 @@
+.idea/
+.gitattributes
+node_modules/
+open/
+.env
+
+package-lock.json

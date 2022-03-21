@@ -1,0 +1,22 @@
+{
+  "name": "render_server",
+  "scripts": {
+    "start": "nuxt"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.9.5",
+    "@nuxtjs/moment": "^1.6.0",
+    "@nuxtjs/vuetify": "^1.11.0",
+    "jodit-vue": "^1.2.4",
+    "jquery": "^3.4.1",
+    "lodash.throttle": "^4.1.1",
+    "nuxt": "^2.11.0",
+    "socket.io-client": "^2.3.0",
+    "vue-awesome-swiper": "^3.1.3",
+    "webpack": "^4.42.0"
+  },
+  "devDependencies": {
+    "@mdi/font": "^5.0.45",
+    "vue-slick": "^1.1.15"
+  }
+}
